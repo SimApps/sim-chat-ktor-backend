@@ -1,0 +1,1 @@
+rootProject.name = "com.simapp.sim-chat-ktor"
